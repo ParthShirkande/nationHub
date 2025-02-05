@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "Japan",
+        "capital": "Tokyo",
+        "population": 125800000,
+        "languages": [
+            "Japanese"
+        ],
+        "currency": "Japanese Yen (JPY)",
+        "continent": "Asia",
+        "interestingFacts": [
+            "Japan has over 6,800 islands.",
+            "It is home to the world's busiest pedestrian crossing, Shibuya Crossing."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "France",
+        "capital": "Paris",
+        "population": 67390000,
+        "languages": [
+            "French"
+        ],
+        "currency": "Euro (EUR)",
+        "continent": "Europe",
+        "interestingFacts": [
+            "France is the most visited country in the world.",
+            "The Eiffel Tower was initially meant to be a temporary structure."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Brazil",
+        "capital": "Brasília",
+        "population": 213000000,
+        "languages": [
+            "Portuguese"
+        ],
+        "currency": "Brazilian Real (BRL)",
+        "continent": "South America",
+        "interestingFacts": [
+            "Brazil is the only country in South America that speaks Portuguese.",
+            "It has the largest rainforest in the world, the Amazon."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "India",
+        "capital": "New Delhi",
+        "population": 1400000000,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "currency": "Indian Rupee (INR)",
+        "continent": "Asia",
+        "interestingFacts": [
+            "India has the world's second-largest population.",
+            "The number zero was invented in India."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Australia",
+        "capital": "Canberra",
+        "population": 26000000,
+        "languages": [
+            "English"
+        ],
+        "currency": "Australian Dollar (AUD)",
+        "continent": "Australia",
+        "interestingFacts": [
+            "Australia is home to the Great Barrier Reef, the world's largest coral reef system.",
+            "It has more kangaroos than people."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Canada",
+        "capital": "Ottawa",
+        "population": 38250000,
+        "languages": [
+            "English",
+            "French"
+        ],
+        "currency": "Canadian Dollar (CAD)",
+        "continent": "North America",
+        "interestingFacts": [
+            "Canada has the longest coastline in the world.",
+            "It has more lakes than the rest of the world combined."
+        ]
+    }
+]
